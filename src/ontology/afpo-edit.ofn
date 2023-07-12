@@ -10185,6 +10185,7 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/AfPO_0000223> <http://purl.o
 AnnotationAssertion(<http://purl.obolibrary.org/obo/AfPO_0000230> <http://purl.obolibrary.org/obo/AfPO_0000443> <http://glottolog.org/resource/languoid/id/krua1234>)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/AfPO_0000234> <http://purl.obolibrary.org/obo/AfPO_0000443> <https://en.wikipedia.org/wiki/Bila_language>)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/AfPO_0000234> <http://purl.obolibrary.org/obo/AfPO_0000443> <https://en.wikipedia.org/wiki/Kru_languages>)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/AfPO_0000235> <http://purl.obolibrary.org/obo/AfPO_0000443> <https://en.wikipedia.org/wiki/Kango_people>)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/AfPO_0000235> <http://purl.obolibrary.org/obo/AfPO_0000443> <https://en.wikipedia.org/wiki/Kru_people>)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/AfPO_0000267> <http://purl.obolibrary.org/obo/AfPO_0000443> <https://peoplegroups.org/explore/GroupDetails.aspx?peid=13510#topmenu>)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/AfPO_0000267> <http://purl.obolibrary.org/obo/AfPO_0000443> <https://peoplegroups.org/explore/GroupDetails.aspx?peid=14285#topmenu>)
